@@ -25,13 +25,21 @@ AUTHOR
     Bob O'Neill, <bobo@cpan.org>
 
 ACKNOWLEDGEMENTS
-    Thanks to Tom Wyant (<http://search.cpan.org/~wyant/>)) for the idea of
-    using dots rather than spaces to represent unknowns in the text
-    representation of the board.
+    Thanks to:
 
-    Thanks to Eugene Kulesha (<http://search.cpan.org/~jset/>) for providing
-    a test that I could not initially pass and for the idea of keeping test
-    data in data files rather than in the tests themselves.
+    Brian Helterline for help in solving 6x6 puzzles and making this more
+    configurable.
+
+    Jean-Pierre Vidal for providing puzzles that the previous version could
+    not solve.
+
+    Eugene Kulesha (<http://search.cpan.org/~jset/>) for providing a test
+    that I could not initially pass and for the idea of keeping test data in
+    data files rather than in the tests themselves.
+
+    Tom Wyant (<http://search.cpan.org/~wyant/>)) for the idea of using dots
+    rather than spaces to represent unknowns in the text representation of
+    the board.
 
 COPYRIGHT AND LICENSE
     Copyright (C) 2006 Bob O'Neill. All rights reserved.
